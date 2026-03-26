@@ -49,5 +49,5 @@ def lcd_string(message, line):
         lcd_write(ord(char),LCD_CHR)
 
 lcd_init()
-lcd_string("Roshini!", LCD_LINE_1)
+lcd_string("Rbsfboshini!", LCD_LINE_1)
 lcd_string("Shreyaa, Hrithviii", LCD_LINE_2)
